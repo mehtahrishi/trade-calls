@@ -10,7 +10,6 @@ __pycache__/
 
 # Local Data/Cache files
 cache.py
-stk.json
 
 # OS files
 .DS_Store
